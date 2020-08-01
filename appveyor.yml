@@ -8,6 +8,7 @@ install:
     - npm install
     - npm install hexo-cli -g
     - npm install hexo-theme-next --save
+    - npm install gulp --save
 #    - npm install hexo-abbrlink --save
 build_script:
     - hexo generate
