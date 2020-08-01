@@ -1,8 +1,11 @@
 clone_depth: 5
 environment:
+  nodejs_version: "12"
   access_token:
     secure: KVCa2He1FC4lxjT8fIM6Kz/eM+k54JLP1jF1lL60YwVk67A7YFOufqpCz2gopRfL
 install:
+    - ps: Install-Product node $env:nodejs_version
+    - npm install
     - node --version
     - npm --version
     - npm install
