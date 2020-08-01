@@ -3,6 +3,7 @@ title: ubuntu10.04 安装共享打印机(CUPS)
 tags:
   - 未分类
 id: '328'
+abbrlink: 1042151429
 date: 2010-07-16 08:38:00
 ---
 

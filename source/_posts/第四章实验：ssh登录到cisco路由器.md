@@ -3,6 +3,7 @@ title: 第四章实验：SSH登录到cisco路由器
 tags:
   - 未分类
 id: '192'
+abbrlink: 1917468419
 date: 2012-05-04 16:23:00
 ---
 

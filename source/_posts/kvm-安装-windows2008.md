@@ -3,6 +3,7 @@ title: kvm 安装 windows2008
 tags:
   - 未分类
 id: '299'
+abbrlink: 3226075993
 date: 2016-04-10 13:39:00
 ---
 

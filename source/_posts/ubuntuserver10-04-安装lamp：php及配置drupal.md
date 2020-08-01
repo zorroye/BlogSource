@@ -3,6 +3,7 @@ title: ubuntuserver10.04 安装LAMP：PHP及配置drupal
 tags:
   - 未分类
 id: '154'
+abbrlink: 3835034022
 date: 2010-11-10 18:01:00
 ---
 

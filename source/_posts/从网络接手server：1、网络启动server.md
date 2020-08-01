@@ -3,6 +3,7 @@ title: 从网络接手server：1、网络启动server
 tags:
   - 未分类
 id: '268'
+abbrlink: 461935396
 date: 2010-09-17 10:42:00
 ---
 

@@ -3,6 +3,7 @@ title: linux下u盘启动盘制作工具---Unetbootin
 tags:
   - 未分类
 id: '35'
+abbrlink: 2594647187
 date: 2012-12-06 21:23:00
 ---
 

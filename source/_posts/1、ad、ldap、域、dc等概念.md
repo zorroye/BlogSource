@@ -3,6 +3,7 @@ title: 1、AD、LDAP、域、DC等概念
 tags:
   - 未分类
 id: '348'
+abbrlink: 1312012375
 date: 2013-01-03 09:54:00
 ---
 

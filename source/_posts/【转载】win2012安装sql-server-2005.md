@@ -3,6 +3,7 @@ title: 【转载】win2012安装sql server 2005
 tags:
   - 未分类
 id: '359'
+abbrlink: 946913595
 date: 2016-03-20 18:38:00
 ---
 

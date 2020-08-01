@@ -3,6 +3,7 @@ title: ubuntu10.04加入到win2003域
 tags:
   - 未分类
 id: '204'
+abbrlink: 1311692127
 date: 2011-02-07 00:28:00
 ---
 

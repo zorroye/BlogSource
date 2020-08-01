@@ -3,6 +3,7 @@ title: （转）Debian/Ubuntu常见安装软件错误解决方案
 tags:
   - 未分类
 id: '205'
+abbrlink: 2441145418
 date: 2011-02-13 16:47:00
 ---
 

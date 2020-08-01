@@ -3,6 +3,7 @@ title: 8、修改FakeSMC
 tags:
   - 未分类
 id: '244'
+abbrlink: 1736323804
 date: 2013-03-20 22:50:00
 ---
 

@@ -3,6 +3,7 @@ title: Ubuntu 14.04 Server 使用lxc并访问外网
 tags:
   - 未分类
 id: '294'
+abbrlink: 1351290105
 date: 2015-04-29 14:13:00
 ---
 

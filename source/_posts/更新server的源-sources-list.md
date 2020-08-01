@@ -3,6 +3,7 @@ title: 更新server的源 sources.list
 tags:
   - 未分类
 id: '271'
+abbrlink: 3830180328
 date: 2010-09-22 14:54:00
 ---
 

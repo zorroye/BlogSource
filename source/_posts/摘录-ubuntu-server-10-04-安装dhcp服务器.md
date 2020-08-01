@@ -3,6 +3,7 @@ title: '[摘录] ubuntu server 10.04 安装dhcp服务器'
 tags:
   - 未分类
 id: '151'
+abbrlink: 1791050251
 date: 2010-10-13 10:56:00
 ---
 

@@ -3,6 +3,7 @@ title: U盘安装ESXI 6
 tags:
   - 未分类
 id: '296'
+abbrlink: 810652655
 date: 2016-01-27 09:33:00
 ---
 

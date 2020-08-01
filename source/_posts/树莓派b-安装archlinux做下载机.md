@@ -3,6 +3,7 @@ title: 树莓派B+ 安装archlinux做下载机
 tags:
   - 未分类
 id: '181'
+abbrlink: 102964102
 date: 2015-10-13 10:21:00
 ---
 

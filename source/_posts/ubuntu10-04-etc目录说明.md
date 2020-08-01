@@ -3,6 +3,7 @@ title: ubuntu10.04     /etc目录说明
 tags:
   - 未分类
 id: '20'
+abbrlink: 3248068869
 date: 2010-06-14 19:40:00
 ---
 

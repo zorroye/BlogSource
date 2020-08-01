@@ -3,6 +3,7 @@ title: ubuntu10.04安装nvidia官方驱动
 tags:
   - 未分类
 id: '212'
+abbrlink: 2285331920
 date: 2012-10-10 14:57:00
 ---
 

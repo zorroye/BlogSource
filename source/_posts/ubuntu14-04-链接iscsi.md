@@ -3,6 +3,7 @@ title: ubuntu14.04 链接iscsi
 tags:
   - 未分类
 id: '356'
+abbrlink: 2480527377
 date: 2016-02-06 17:56:00
 ---
 

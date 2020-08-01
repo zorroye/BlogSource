@@ -3,6 +3,7 @@ title: centos7最小化安装kvm
 tags:
   - 未分类
 id: '300'
+abbrlink: 2474284125
 date: 2016-04-10 19:40:00
 ---
 

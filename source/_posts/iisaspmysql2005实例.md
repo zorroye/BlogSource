@@ -3,6 +3,7 @@ title: IIS+asp+mysql2005实例
 tags:
   - 未分类
 id: '155'
+abbrlink: 2377210841
 date: 2011-01-03 08:49:00
 ---
 

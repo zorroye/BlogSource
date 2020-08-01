@@ -3,6 +3,7 @@ title: 公司买了IBM设备+金蝶EAS
 tags:
   - 未分类
 id: '31'
+abbrlink: 2583200111
 date: 2012-09-04 11:27:00
 ---
 

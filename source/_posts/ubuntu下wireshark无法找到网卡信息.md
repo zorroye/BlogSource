@@ -3,6 +3,7 @@ title: ubuntu下wireshark无法找到网卡信息
 tags:
   - 未分类
 id: '210'
+abbrlink: 1758743069
 date: 2011-12-28 13:26:00
 ---
 

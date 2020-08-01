@@ -3,6 +3,7 @@ title: ubuntu10.04安装64位ppstream
 tags:
   - 未分类
 id: '34'
+abbrlink: 421653662
 date: 2012-11-08 11:19:00
 ---
 

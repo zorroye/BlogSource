@@ -3,6 +3,7 @@ title: Ubuntu Server 14.04 安装nagios，nrpe
 tags:
   - 未分类
 id: '288'
+abbrlink: 3633964971
 date: 2015-06-17 21:07:00
 ---
 

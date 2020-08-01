@@ -3,6 +3,7 @@ title: 二、ISCSI技术
 tags:
   - 未分类
 id: '352'
+abbrlink: 4220424958
 date: 2016-02-05 18:12:00
 ---
 

@@ -3,6 +3,7 @@ title: ubuntu14.04 server 安装keepalived
 tags:
   - 未分类
 id: '287'
+abbrlink: 810151373
 date: 2015-05-25 20:10:00
 ---
 

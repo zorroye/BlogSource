@@ -3,6 +3,7 @@ title: LFS中使用rpm有关问题
 tags:
   - 未分类
 id: '223'
+abbrlink: 326245325
 date: 2012-10-07 10:13:00
 ---
 

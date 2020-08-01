@@ -3,6 +3,7 @@ title: UBUNTU14.04安装SAMBA4.1.6并使用BIND9_DLZ
 tags:
   - 未分类
 id: '335'
+abbrlink: 1528754021
 date: 2015-09-16 10:46:00
 ---
 

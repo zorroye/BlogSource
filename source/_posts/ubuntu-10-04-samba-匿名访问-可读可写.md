@@ -3,6 +3,7 @@ title: ubuntu 10.04    samba 匿名访问 可读可写
 tags:
   - 未分类
 id: '327'
+abbrlink: 1833866432
 date: 2010-07-14 11:27:00
 ---
 

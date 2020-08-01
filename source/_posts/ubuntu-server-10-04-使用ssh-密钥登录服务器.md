@@ -3,6 +3,7 @@ title: 'ubuntu server 10.04 :使用ssh 密钥登录服务器'
 tags:
   - 未分类
 id: '273'
+abbrlink: 2047342109
 date: 2010-11-06 15:02:00
 ---
 
