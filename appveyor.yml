@@ -13,6 +13,7 @@ install:
     - npm install hexo-theme-next --save
     - npm install gulp --save
     - npm install hexo-abbrlink --save
+    - npm install hexo-generator-searchdb --save
 build_script:
     - hexo generate
 artifacts:

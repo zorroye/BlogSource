@@ -109,3 +109,11 @@ theme: next
 deploy:
   type: git
   repo: https://github.com/zorroye/zorroye.github.io.git
+
+# search
+## npm install hexo-generator-searchdb --save
+search:
+  path: search.xml
+  pield: post
+  format: html
+  limit: 10000 
