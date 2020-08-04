@@ -1,7 +1,10 @@
 ---
 title: 2、mac启动过程
 tags:
-  - 未分类
+  - hackintosh
+categories:
+  - Hackintosh
+  - 原理
 id: '238'
 abbrlink: 1407524629
 date: 2013-03-20 20:46:00

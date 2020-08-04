@@ -1,7 +1,10 @@
 ---
 title: 【转载】kvm p2v 操作说明
 tags:
-  - 未分类
+  - kvm
+categories:
+  - 虚拟化
+  - Kvm
 id: '303'
 abbrlink: 1107034260
 date: 2016-04-18 22:40:00
