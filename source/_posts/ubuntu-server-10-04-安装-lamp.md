@@ -1,7 +1,10 @@
 ---
 title: ubuntu server 10.04 安装 LAMP
 tags:
-  - 未分类
+  - ubuntuserver
+categories:
+  - Ubuntu
+  - server
 id: '148'
 abbrlink: 3097134107
 date: 2010-09-28 17:37:00

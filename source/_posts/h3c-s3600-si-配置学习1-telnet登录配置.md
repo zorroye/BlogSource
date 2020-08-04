@@ -1,7 +1,10 @@
 ---
 title: H3C S3600-SI 配置学习1---telnet登录配置
 tags:
-  - 未分类
+  - huawei
+categories:
+  - Network
+  - huawei
 id: '189'
 abbrlink: 1399434713
 date: 2011-11-22 10:55:00

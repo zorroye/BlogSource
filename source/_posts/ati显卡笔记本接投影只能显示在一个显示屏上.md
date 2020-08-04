@@ -1,7 +1,10 @@
 ---
 title: ati显卡笔记本接投影只能显示在一个显示屏上
 tags:
-  - 未分类
+  - 投影
+categories:
+  - Windows
+  - Q&A
 id: '103'
 abbrlink: 67430707
 date: 2011-08-12 09:29:00

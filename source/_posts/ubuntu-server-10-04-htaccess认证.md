@@ -1,7 +1,10 @@
 ---
 title: ubuntu server 10.04  .htaccess认证
 tags:
-  - 未分类
+  - ubuntuserver
+categories:
+  - Ubuntu
+  - server
 id: '149'
 abbrlink: 3451413846
 date: 2010-09-30 09:44:00

@@ -1,7 +1,10 @@
 ---
 title: ubuntu使用gns3里面的云
 tags:
-  - 未分类
+  - ubuntuserver
+categories:
+  - Ubuntu
+  - server
 id: '194'
 abbrlink: 2281735761
 date: 2012-05-09 15:46:00

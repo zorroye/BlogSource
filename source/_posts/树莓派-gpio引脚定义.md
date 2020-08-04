@@ -1,7 +1,10 @@
 ---
 title: 树莓派 GPIO引脚定义
 tags:
-  - 未分类
+  - 树莓派
+categories:
+  - Hardware
+  - 树莓派
 id: '175'
 abbrlink: 43200443
 date: 2015-03-07 11:16:00

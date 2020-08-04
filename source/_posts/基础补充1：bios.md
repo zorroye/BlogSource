@@ -1,7 +1,10 @@
 ---
 title: 基础补充1：BIOS
 tags:
-  - 未分类
+  - 鸟哥的私房菜
+categories:
+  - Linux
+  - 鸟哥的私房菜
 id: '82'
 abbrlink: 3472081138
 date: 2013-04-05 16:16:00

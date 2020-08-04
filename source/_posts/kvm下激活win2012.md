@@ -1,7 +1,10 @@
 ---
 title: kvm下激活win2012
 tags:
-  - 未分类
+  - kvm
+categories:
+  - Virtualization
+  - kvm
 id: '302'
 abbrlink: 111771363
 date: 2016-04-16 22:10:00

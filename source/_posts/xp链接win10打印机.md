@@ -1,7 +1,10 @@
 ---
 title: XP链接win10打印机
 tags:
-  - 未分类
+  - Q&A
+categories:
+  - Windows
+  - Q&A
 id: '114'
 abbrlink: 2897485980
 date: 2016-05-04 11:11:00

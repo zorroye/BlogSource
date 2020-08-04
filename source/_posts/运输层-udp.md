@@ -1,7 +1,10 @@
 ---
 title: 运输层-UDP
 tags:
-  - 未分类
+  - 基础
+categories:
+  - Network
+  - 基础
 id: '260'
 abbrlink: 2909164064
 date: 2012-12-13 19:12:00

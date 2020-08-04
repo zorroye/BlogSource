@@ -1,7 +1,10 @@
 ---
 title: 命令行建kvm
 tags:
-  - 未分类
+  - kvm
+categories：
+  - Virtualization
+  - Kvm
 id: '301'
 abbrlink: 312231816
 date: 2016-04-14 22:39:00

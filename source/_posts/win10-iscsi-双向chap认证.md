@@ -1,7 +1,10 @@
 ---
 title: win10 ISCSI 双向CHAP认证
 tags:
-  - 未分类
+  - Q&A
+categories:
+  - Windows
+  - Q&A
 id: '353'
 abbrlink: 1821313599
 date: 2016-02-05 19:00:00

@@ -1,7 +1,10 @@
 ---
 title: ubuntu 14.04.3 安装单机kubernetes
 tags:
-  - 未分类
+  - ubuntuserver
+categories:
+  - Ubuntu
+  - server
 id: '295'
 abbrlink: 2045748854
 date: 2015-10-26 21:46:00

@@ -1,7 +1,10 @@
 ---
 title: 7、修改DSDT.aml
 tags:
-  - 未分类
+  - hackintosh
+categories:
+  - Hackintosh
+  - 安装
 id: '243'
 abbrlink: 1528618337
 date: 2013-03-20 22:40:00

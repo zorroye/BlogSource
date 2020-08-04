@@ -1,7 +1,10 @@
 ---
 title: '[转载]ubuntu14.04.3 X64 安装wingide破解版'
 tags:
-  - 未分类
+  - ubuntu
+categories:
+  - Ubuntu
+  - Q&A
 id: '218'
 abbrlink: 1723459358
 date: 2015-10-29 19:02:00

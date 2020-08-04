@@ -1,7 +1,10 @@
 ---
 title: 'rootkit检测工具:rkhunter'
 tags:
-  - 未分类
+  - ubuntuserver
+categories:
+  - Ubuntu
+  - server
 id: '286'
 abbrlink: 4003415816
 date: 2013-01-04 09:15:00

@@ -1,7 +1,10 @@
 ---
 title: CHDK 安装及使用
 tags:
-  - 未分类
+  - ubuntu
+categories:
+  - Ubuntu
+  - Q&A
 id: '24'
 abbrlink: 3009292535
 date: 2011-03-19 09:56:00

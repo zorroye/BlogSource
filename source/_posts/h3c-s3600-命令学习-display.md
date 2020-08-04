@@ -1,7 +1,10 @@
 ---
 title: H3C S3600 命令学习-display
 tags:
-  - 未分类
+  - huawei
+categories:
+  - Network
+  - huawei
 id: '188'
 abbrlink: 1735849152
 date: 2011-09-22 20:21:00

@@ -1,7 +1,10 @@
 ---
 title: ubuntu16.04安装NVIDIA GT710驱动
 tags:
-  - 未分类
+  - ubuntu
+categories:
+  - Ubuntu
+  - Q&A
 id: '219'
 abbrlink: 1460166489
 date: 2016-07-21 10:36:00

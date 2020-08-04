@@ -1,7 +1,10 @@
 ---
 title: CCNA 第一章 网际互连
 tags:
-  - 未分类
+  - ccna
+categories:
+  - Network
+  - cisco
 id: '196'
 abbrlink: 3226235221
 date: 2012-08-24 13:43:00

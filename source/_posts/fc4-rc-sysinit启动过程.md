@@ -1,7 +1,10 @@
 ---
 title: FC4 rc.sysinit启动过程
 tags:
-  - 未分类
+  - 鸟哥的私房菜
+categories:
+  - Linux
+  - 鸟哥的私房菜
 id: '88'
 abbrlink: 522471707
 date: 2014-11-25 13:48:00

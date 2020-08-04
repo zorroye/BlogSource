@@ -1,7 +1,10 @@
 ---
 title: thinkserver RD450 安装记录
 tags:
-  - 未分类
+  - 服务器
+categories:
+  - Hardware
+  - 服务器
 id: '358'
 abbrlink: 2044991458
 date: 2016-03-19 22:58:00

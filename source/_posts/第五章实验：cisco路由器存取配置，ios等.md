@@ -1,7 +1,10 @@
 ---
 title: 第五章实验：cisco路由器存取配置，ios等
 tags:
-  - 未分类
+  - cisco
+categories:
+  - Network
+  - cisco
 id: '195'
 abbrlink: 3407126661
 date: 2012-05-09 17:22:00

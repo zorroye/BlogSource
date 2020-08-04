@@ -1,7 +1,10 @@
 ---
 title: ubuntus 最佳方案 -3 apache
 tags:
-  - 未分类
+  - ubuntuserver
+categories:
+  - Ubuntu
+  - server
 id: '158'
 abbrlink: 2706917480
 date: 2012-04-18 22:14:00

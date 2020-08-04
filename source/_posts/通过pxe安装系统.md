@@ -1,7 +1,10 @@
 ---
 title: 通过PXE安装系统
 tags:
-  - 未分类
+  - 无盘
+categories:
+  - Hardware
+  - 无盘
 id: '165'
 abbrlink: 4265064830
 date: 2014-02-18 15:28:00

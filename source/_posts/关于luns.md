@@ -1,7 +1,10 @@
 ---
 title: 关于luns
 tags:
-  - 未分类
+  - luns
+categories：
+  - Hardware
+  - luns
 id: '355'
 abbrlink: 355074636
 date: 2016-02-06 11:39:00

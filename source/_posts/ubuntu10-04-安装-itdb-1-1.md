@@ -1,7 +1,10 @@
 ---
 title: ubuntu10.04 安装 itdb 1.1
 tags:
-  - 未分类
+  - ubuntuserver
+categories:
+  - Ubuntu
+  - server
 id: '207'
 abbrlink: 2125441215
 date: 2011-04-28 15:07:00

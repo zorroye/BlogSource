@@ -1,7 +1,10 @@
 ---
 title: LFS制作-3、临时系统-2必需软件
 tags:
-  - 未分类
+  - lfs
+categories:
+  - Linux
+  - lfs
 id: '228'
 abbrlink: 1902492967
 date: 2012-10-25 12:35:00

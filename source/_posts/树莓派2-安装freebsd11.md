@@ -1,7 +1,10 @@
 ---
 title: 树莓派2 安装freebsd11
 tags:
-  - 未分类
+  - 树莓派
+categories:
+  - Hardware
+  - 树莓派
 id: '183'
 abbrlink: 2900167838
 date: 2015-10-24 19:54:00

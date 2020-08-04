@@ -1,7 +1,10 @@
 ---
 title: 打开excel2007文件显示空白
 tags:
-  - 未分类
+  - excel
+categories:
+  - Windows
+  - Q&A
 id: '111'
 abbrlink: 1617765300
 date: 2012-12-07 10:12:00

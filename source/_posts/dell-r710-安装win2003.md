@@ -1,7 +1,10 @@
 ---
 title: dell R710 安装win2003
 tags:
-  - 未分类
+  - 服务器
+categories:
+  - Hardware
+  - 服务器
 id: '362'
 abbrlink: 3603248865
 date: 2017-02-13 16:26:00

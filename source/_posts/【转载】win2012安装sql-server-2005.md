@@ -3,7 +3,7 @@ title: 【转载】win2012安装sql server 2005
 tags:
   - sql
 categories:
-  - Windows
+  - Database
   - sqlserver
 id: '359'
 abbrlink: 946913595

@@ -1,7 +1,10 @@
 ---
 title: 域名dns解析
 tags:
-  - 未分类
+  - DNS
+categories:
+  - Network
+  - DNS
 id: '312'
 abbrlink: 3195888254
 date: 2012-06-25 18:13:00

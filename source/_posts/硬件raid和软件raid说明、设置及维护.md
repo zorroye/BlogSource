@@ -1,7 +1,10 @@
 ---
 title: 硬件raid和软件raid说明、设置及维护
 tags:
-  - 未分类
+  - 存储
+categories:
+  - Hardware
+  - 存储
 id: '274'
 abbrlink: 582936588
 date: 2010-11-20 08:31:00

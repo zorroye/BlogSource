@@ -1,7 +1,10 @@
 ---
 title: excle超链接被限制
 tags:
-  - 未分类
+  - excel
+categories:
+  - Windows
+  - excel
 id: '106'
 abbrlink: 542090570
 date: 2012-06-19 13:43:00

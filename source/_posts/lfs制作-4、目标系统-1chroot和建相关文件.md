@@ -1,7 +1,10 @@
 ---
 title: LFS制作-4、目标系统-1chroot和建相关文件
 tags:
-  - 未分类
+  - lfs
+categories:
+  - Linux
+  - lfs
 id: '229'
 abbrlink: 3518050721
 date: 2012-10-25 13:30:00

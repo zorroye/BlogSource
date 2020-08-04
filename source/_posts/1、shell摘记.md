@@ -1,7 +1,10 @@
 ---
 title: 1、shell摘记
 tags:
-  - 未分类
+  - shell
+categories:
+  - Ubuntu
+  - shell
 id: '38'
 abbrlink: 4203053353
 date: 2013-01-07 09:06:00

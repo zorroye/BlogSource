@@ -1,7 +1,10 @@
 ---
 title: mysql自动删除备份文件
 tags:
-  - 未分类
+  - mysql
+categories:
+  - Database
+  - mysql
 id: '364'
 abbrlink: 1856401235
 date: 2013-01-23 16:18:00

@@ -1,7 +1,10 @@
 ---
 title: 手机/平板当遥控器控制XBMC等软件(猫范TV)
 tags:
-  - 未分类
+  - 机顶盒
+categories:
+  - Hardware
+  - 机顶盒
 id: '49'
 abbrlink: 3794223921
 date: 2014-02-07 01:00:00

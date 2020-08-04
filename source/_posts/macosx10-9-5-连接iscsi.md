@@ -1,7 +1,10 @@
 ---
 title: macosx10.9.5 连接iscsi
 tags:
-  - 未分类
+  - iscsi
+categories:
+  - Hardware
+  - iscsi
 id: '354'
 abbrlink: 398682109
 date: 2016-02-05 22:32:00

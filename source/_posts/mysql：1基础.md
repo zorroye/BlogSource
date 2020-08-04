@@ -1,7 +1,10 @@
 ---
 title: MYSQL：1基础
 tags:
-  - 未分类
+  - mysql
+categories:
+  - Database
+  - mysql
 id: '363'
 abbrlink: 3997419446
 date: 2012-11-29 14:12:00

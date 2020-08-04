@@ -1,7 +1,10 @@
 ---
 title: CCNA第七章
 tags:
-  - 未分类
+  - ccna
+categories:
+  - Network
+  - cisco
 id: '202'
 abbrlink: 4214236176
 date: 2012-09-14 15:22:00

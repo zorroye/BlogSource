@@ -1,7 +1,10 @@
 ---
 title: ddns绑定在双线的指定线路上
 tags:
-  - 未分类
+  - huawei
+categories:
+  - Network
+  - huawei
 id: '324'
 abbrlink: 2104355930
 date: 2017-01-20 09:06:00

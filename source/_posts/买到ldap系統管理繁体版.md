@@ -1,7 +1,10 @@
 ---
 title: 买到LDAP系統管理繁体版
 tags:
-  - 未分类
+  - 点滴
+categories：
+  - Live
+  - 点滴
 id: '344'
 abbrlink: 4112440145
 date: 2012-02-22 16:32:00

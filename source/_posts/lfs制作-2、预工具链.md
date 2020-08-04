@@ -1,7 +1,10 @@
 ---
 title: LFS制作-2、预工具链
 tags:
-  - 未分类
+  - lfs
+categories:
+  - Linux
+  - lfs
 id: '226'
 abbrlink: 1578739451
 date: 2012-10-22 09:46:00

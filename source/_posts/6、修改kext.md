@@ -1,7 +1,10 @@
 ---
 title: 6、修改KEXT
 tags:
-  - 未分类
+  - hackintosh
+categories:
+  - Hackintosh
+  - 安装
 id: '242'
 abbrlink: 2385987775
 date: 2013-03-20 22:40:00

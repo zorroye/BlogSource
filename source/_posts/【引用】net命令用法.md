@@ -1,10 +1,10 @@
 ---
 title: 【引用】net命令用法
 tags:
-  - net命令
+  - net
 categories:
-  - Windows
-  - 除错
+  - Network
+  - command
 id: '284'
 abbrlink: 1736813283
 date: 2011-09-08 20:45:00

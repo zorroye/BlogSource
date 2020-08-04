@@ -1,7 +1,10 @@
 ---
 title: '[安装记录]2、(补充) 在内核升级后自动安装nvdia驱动'
 tags:
-  - 未分类
+  - ubuntu
+categories：
+  - Ubuntu
+  - 基础
 id: '12'
 abbrlink: 2270031191
 date: 2010-01-24 23:16:00

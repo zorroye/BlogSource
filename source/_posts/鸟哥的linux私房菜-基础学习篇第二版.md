@@ -1,7 +1,10 @@
 ---
 title: 鸟哥的linux私房菜-基础学习篇(第二版)
 tags:
-  - 未分类
+  - 鸟哥的私房菜
+categories:
+  - Linux
+  - 鸟哥的私房菜
 id: '54'
 abbrlink: 2598844820
 date: 2010-06-09 20:30:00

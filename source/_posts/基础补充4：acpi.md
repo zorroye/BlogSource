@@ -1,7 +1,10 @@
 ---
 title: 基础补充4：ACPI
 tags:
-  - 未分类
+  - 鸟哥的私房菜
+categories:
+  - Linux
+  - 鸟哥的私房菜
 id: '85'
 abbrlink: 2835944266
 date: 2013-04-11 09:31:00

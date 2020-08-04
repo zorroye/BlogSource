@@ -1,7 +1,10 @@
 ---
 title: fedora安装
 tags:
-  - 未分类
+  - 鸟哥的私房菜
+categories:
+  - Linux
+  - 鸟哥的私房菜
 id: '55'
 abbrlink: 2744993236
 date: 2011-02-06 15:59:00

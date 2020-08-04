@@ -1,7 +1,10 @@
 ---
 title: etc目录文件说明
 tags:
-  - 未分类
+  - 鸟哥的私房菜
+categories:
+  - Linux
+  - 鸟哥的私房菜
 id: '92'
 abbrlink: 771146178
 date: 2015-06-01 10:42:00

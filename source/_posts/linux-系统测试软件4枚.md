@@ -1,7 +1,10 @@
 ---
 title: linux 系统测试软件4枚
 tags:
-  - 未分类
+  - ubuntu
+categories:
+  - Ubuntu
+  - Q&A
 id: '289'
 abbrlink: 1375113552
 date: 2015-10-29 21:24:00

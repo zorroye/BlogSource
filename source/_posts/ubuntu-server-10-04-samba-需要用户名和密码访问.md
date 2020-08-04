@@ -1,7 +1,10 @@
 ---
 title: ubuntu server 10.04 samba 需要用户名和密码访问
 tags:
-  - 未分类
+  - samba
+categories:
+  - Services
+  - samba
 id: '329'
 abbrlink: 3255764824
 date: 2010-09-24 11:00:00

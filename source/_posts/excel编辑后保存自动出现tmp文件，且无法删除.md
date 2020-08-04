@@ -1,7 +1,10 @@
 ---
 title: excel编辑后保存自动出现TMP文件，且无法删除
 tags:
-  - 未分类
+  - excel
+categories:
+  - Windows
+  - excel
 id: '110'
 abbrlink: 1788866578
 date: 2012-11-20 14:18:00

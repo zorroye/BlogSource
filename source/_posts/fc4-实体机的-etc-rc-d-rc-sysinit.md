@@ -1,7 +1,10 @@
 ---
 title: FC4 实体机的/etc/rc.d/rc.sysinit
 tags:
-  - 未分类
+  - 鸟哥的私房菜
+categories:
+  - Linux
+  - 鸟哥的私房菜
 id: '87'
 abbrlink: 941525438
 date: 2014-11-25 11:40:00

@@ -1,7 +1,10 @@
 ---
 title: CCNA第六章 静态路由、默认路由、RIPv2
 tags:
-  - 未分类
+  - ccna
+categories:
+  - Network
+  - cisco
 id: '201'
 abbrlink: 4109131716
 date: 2012-09-10 11:08:00

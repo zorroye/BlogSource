@@ -1,7 +1,10 @@
 ---
 title: fedora17安装nvidia官方驱动
 tags:
-  - 未分类
+  - 鸟哥的私房菜
+categories:
+  - Linux
+  - 鸟哥的私房菜
 id: '211'
 abbrlink: 2095604229
 date: 2012-10-10 12:25:00

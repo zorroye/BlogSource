@@ -1,7 +1,10 @@
 ---
 title: ocs-agent 安装过程
 tags:
-  - 未分类
+  - ubuntuserver
+categories:
+  - Ubuntu
+  - server
 id: '283'
 abbrlink: 380620447
 date: 2011-05-04 15:14:00

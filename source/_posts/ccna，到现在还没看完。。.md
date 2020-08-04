@@ -1,7 +1,10 @@
 ---
 title: CCNA，到现在还没看完。。
 tags:
-  - 未分类
+  - ccna
+categories:
+  - Network
+  - cisco
 id: '137'
 abbrlink: 2441116169
 date: 2012-08-06 10:56:00

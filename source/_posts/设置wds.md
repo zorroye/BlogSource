@@ -1,7 +1,10 @@
 ---
 title: 设置WDS
 tags:
-  - 未分类
+  - tplink
+categories:
+  - Hardware
+  - tplink
 id: '308'
 abbrlink: 3914124749
 date: 2011-10-29 13:29:00

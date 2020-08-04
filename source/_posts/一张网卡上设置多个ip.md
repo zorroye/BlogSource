@@ -1,7 +1,10 @@
 ---
 title: 一张网卡上设置多个IP
 tags:
-  - 未分类
+  - 网卡
+categories:
+  - Windows
+  - Q&A
 id: '95'
 abbrlink: 1574750591
 date: 2010-07-30 15:50:00

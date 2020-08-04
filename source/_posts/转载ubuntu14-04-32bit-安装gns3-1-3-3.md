@@ -1,7 +1,10 @@
 ---
 title: '[转载]UBUNTU14.04 32bit 安装GNS3 1.3.3'
 tags:
-  - 未分类
+  - ubuntu
+categories:
+  - Ubuntu
+  - Q&A
 id: '368'
 abbrlink: 2368736414
 date: 2015-05-23 10:06:00

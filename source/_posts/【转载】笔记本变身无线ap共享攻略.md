@@ -1,9 +1,9 @@
 ---
 title: 【转载】笔记本变身无线AP共享攻略
 tags:
-  - AP
+  - 无线AP
 categories:
-  - 硬件
+  - Hardware
   - 笔记本
 id: '100'
 abbrlink: 378322779

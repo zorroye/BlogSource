@@ -1,7 +1,10 @@
 ---
 title: 学习ldap：1概述
 tags:
-  - 未分类
+  - ldap
+categories:
+  - Services
+  - ldap
 id: '349'
 abbrlink: 2420451105
 date: 2013-02-22 18:22:00

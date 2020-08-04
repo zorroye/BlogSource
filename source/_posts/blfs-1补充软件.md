@@ -1,7 +1,10 @@
 ---
 title: 'BLFS-1:补充软件'
 tags:
-  - 未分类
+  - lfs
+categories:
+  - Linux
+  - lfs
 id: '233'
 abbrlink: 768145412
 date: 2012-10-26 12:55:00

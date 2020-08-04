@@ -1,7 +1,10 @@
 ---
 title: gpg使用说明
 tags:
-  - 未分类
+  - 鸟哥的私房菜
+categories:
+  - Linux
+  - 鸟哥的私房菜
 id: '206'
 abbrlink: 841776280
 date: 2011-03-19 14:46:00

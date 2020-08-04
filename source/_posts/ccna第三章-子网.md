@@ -1,7 +1,10 @@
 ---
 title: CCNA第三章 子网
 tags:
-  - 未分类
+  - ccna
+categories:
+  - Network
+  - cisco
 id: '198'
 abbrlink: 2993408280
 date: 2012-08-27 11:19:00

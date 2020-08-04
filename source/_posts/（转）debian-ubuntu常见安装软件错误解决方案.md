@@ -4,7 +4,7 @@ tags:
   - ubuntu
 categories：
   - Ubuntu
-  - 除错
+  - Q&A
 id: '205'
 abbrlink: 2441145418
 date: 2011-02-13 16:47:00

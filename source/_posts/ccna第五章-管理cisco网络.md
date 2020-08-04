@@ -1,7 +1,10 @@
 ---
 title: CCNA第五章 管理cisco网络
 tags:
-  - 未分类
+  - ccna
+categories:
+  - Network
+  - cisco
 id: '200'
 abbrlink: 3113480854
 date: 2012-08-30 15:45:00

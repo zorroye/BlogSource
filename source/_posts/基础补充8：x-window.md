@@ -1,7 +1,10 @@
 ---
 title: 基础补充8：X window
 tags:
-  - 未分类
+  - 鸟哥的私房菜
+categories:
+  - Linux
+  - 鸟哥的私房菜
 id: '91'
 abbrlink: 179208481
 date: 2014-12-13 09:34:00

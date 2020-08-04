@@ -1,7 +1,10 @@
 ---
 title: 基础补充3：initrd.img里的init和/etc/rc.sysinit
 tags:
-  - 未分类
+  - 鸟哥的私房菜
+categories:
+  - Linux
+  - 鸟哥的私房菜
 id: '84'
 abbrlink: 695420585
 date: 2013-04-09 15:52:00

@@ -1,7 +1,10 @@
 ---
 title: USB量产操作
 tags:
-  - 未分类
+  - U盘
+categories:
+  - Hardware
+  - U盘
 id: '168'
 abbrlink: 2647626534
 date: 2011-08-30 17:17:00

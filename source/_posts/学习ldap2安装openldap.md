@@ -1,7 +1,10 @@
 ---
 title: '学习ldap:2安装openldap'
 tags:
-  - 未分类
+  - ldap
+categories:
+  - Services
+  - ldap
 id: '350'
 abbrlink: 3898123418
 date: 2013-02-25 16:40:00

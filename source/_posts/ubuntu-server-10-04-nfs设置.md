@@ -1,7 +1,10 @@
 ---
 title: ubuntu server 10.04 NFS设置
 tags:
-  - 未分类
+  - ubuntuserver
+categories:
+  - Ubuntu
+  - server
 id: '331'
 abbrlink: 160023932
 date: 2010-10-09 10:25:00

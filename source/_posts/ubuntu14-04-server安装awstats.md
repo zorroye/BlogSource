@@ -1,7 +1,10 @@
 ---
 title: UBUNTU14.04 server安装AWStats
 tags:
-  - 未分类
+  - ubuntuserver
+categories:
+  - Ubuntu
+  - server
 id: '166'
 abbrlink: 201714586
 date: 2015-05-08 11:11:00

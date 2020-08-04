@@ -1,7 +1,10 @@
 ---
 title: ubuntus 最佳方案 3-apache2 default文件介绍
 tags:
-  - 未分类
+  - ubuntuserver
+categories:
+  - Ubuntu
+  - server
 id: '159'
 abbrlink: 3499039072
 date: 2012-04-18 22:18:00

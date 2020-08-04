@@ -1,7 +1,10 @@
 ---
 title: raspberry pi 2 刷ubuntu14.04
 tags:
-  - 未分类
+  - 树莓派
+categories:
+  - Hardware
+  - 树莓派
 id: '178'
 abbrlink: 565288185
 date: 2015-05-04 13:05:00

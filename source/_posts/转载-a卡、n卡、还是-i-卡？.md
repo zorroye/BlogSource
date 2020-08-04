@@ -1,7 +1,10 @@
 ---
 title: '[转载] A卡、N卡、还是 I 卡？'
 tags:
-  - 未分类
+  - 显卡
+categories:
+  - Hardware
+  - 显卡
 id: '22'
 abbrlink: 770010477
 date: 2011-01-19 10:57:00

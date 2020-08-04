@@ -1,7 +1,10 @@
 ---
 title: 新年礼物——制作好了自己的LFS，哈哈～～
 tags:
-  - 未分类
+  - 点滴
+categories：
+  - Live
+  - 点滴
 id: '220'
 abbrlink: 479411407
 date: 2011-01-01 14:22:00

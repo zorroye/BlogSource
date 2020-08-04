@@ -1,7 +1,10 @@
 ---
 title: buffalo nas 安装kms服务器
 tags:
-  - 未分类
+  - 巴法络
+categories:
+  - Hardware
+  - 巴法络
 id: '184'
 abbrlink: 942033720
 date: 2016-11-08 09:29:00

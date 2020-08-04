@@ -1,7 +1,10 @@
 ---
 title: ubuntu14.04 安装kvm
 tags:
-  - 未分类
+  - kvm
+categories:
+  - Virtualization
+  - kvm
 id: '216'
 abbrlink: 2372106058
 date: 2015-05-19 23:50:00

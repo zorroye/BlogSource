@@ -1,7 +1,10 @@
 ---
 title: ubuntu server 10.04 安装PHP强化模块
 tags:
-  - 未分类
+  - ubuntuserver
+categories:
+  - Ubuntu
+  - server
 id: '150'
 abbrlink: 2665123118
 date: 2010-09-30 10:01:00

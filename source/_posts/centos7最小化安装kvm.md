@@ -1,7 +1,10 @@
 ---
 title: centos7最小化安装kvm
 tags:
-  - 未分类
+  - 鸟哥的私房菜
+categories:
+  - Linux
+  - 鸟哥的私房菜
 id: '300'
 abbrlink: 2474284125
 date: 2016-04-10 19:40:00

@@ -1,7 +1,10 @@
 ---
 title: 安装 minicom
 tags:
-  - 未分类
+  - ubuntu
+categories：
+  - Ubuntu
+  - 基础
 id: '186'
 abbrlink: 2051443138
 date: 2011-02-25 13:56:00

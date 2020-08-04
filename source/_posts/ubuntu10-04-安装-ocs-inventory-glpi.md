@@ -1,7 +1,10 @@
 ---
 title: ubuntu10.04 安装 OCS Inventory + GLPI
 tags:
-  - 未分类
+  - ubuntuserver
+categories:
+  - Ubuntu
+  - server
 id: '281'
 abbrlink: 607051261
 date: 2011-05-03 12:00:00

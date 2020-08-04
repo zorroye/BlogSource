@@ -1,7 +1,10 @@
 ---
 title: ubuntu12.04 安装kvm
 tags:
-  - 未分类
+  - kvm
+categories:
+  - Virtualization
+  - kvm
 id: '48'
 abbrlink: 1973501180
 date: 2014-01-07 15:15:00

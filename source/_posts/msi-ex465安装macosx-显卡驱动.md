@@ -1,7 +1,10 @@
 ---
 title: msi EX465安装MACOSX 显卡驱动
 tags:
-  - 未分类
+  - ex465
+categories:
+  - Hackintosh
+  - ex465
 id: '246'
 abbrlink: 3670975691
 date: 2013-12-08 13:49:00

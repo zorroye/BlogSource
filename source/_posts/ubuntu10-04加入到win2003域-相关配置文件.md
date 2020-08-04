@@ -1,7 +1,10 @@
 ---
 title: ubuntu10.04加入到win2003域 相关配置文件
 tags:
-  - 未分类
+  - ubuntu
+categories:
+  - Ubuntu
+  - Q&A
 id: '208'
 abbrlink: 3016358933
 date: 2011-05-17 10:06:00

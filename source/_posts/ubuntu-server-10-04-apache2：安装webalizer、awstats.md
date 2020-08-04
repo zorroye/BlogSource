@@ -1,7 +1,10 @@
 ---
 title: ubuntu server 10.04 apache2：安装webalizer、awstats
 tags:
-  - 未分类
+  - ubuntuserver
+categories:
+  - Ubuntu
+  - server
 id: '153'
 abbrlink: 3630694637
 date: 2010-11-09 12:24:00

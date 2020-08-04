@@ -1,7 +1,10 @@
 ---
 title: 树莓派B+ 配置openwrt桥接模式
 tags:
-  - 未分类
+  - 树莓派
+categories:
+  - Hardware
+  - 树莓派
 id: '174'
 abbrlink: 690818048
 date: 2015-02-11 13:49:00

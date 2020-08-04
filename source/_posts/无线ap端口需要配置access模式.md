@@ -1,7 +1,10 @@
 ---
 title: 无线ap端口需要配置access模式
 tags:
-  - 未分类
+  - huawei
+categories:
+  - Network
+  - huawei
 id: '317'
 abbrlink: 2171983291
 date: 2016-09-12 00:31:00

@@ -1,7 +1,10 @@
 ---
 title: '[全文转载]Ubuntu10.04 ATI显卡硬件高清加速'
 tags:
-  - 未分类
+  - ubuntu
+categories:
+  - Ubuntu
+  - Q&A
 id: '214'
 abbrlink: 597459236
 date: 2012-12-12 08:45:00

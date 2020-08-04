@@ -1,7 +1,10 @@
 ---
 title: 买了台mini电脑
 tags:
-  - 未分类
+  - 点滴
+categories：
+  - Live
+  - 点滴
 id: '41'
 abbrlink: 3231248921
 date: 2013-03-10 14:53:00

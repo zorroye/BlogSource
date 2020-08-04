@@ -1,7 +1,10 @@
 ---
 title: ubuntu10.04安装官方ati显卡驱动
 tags:
-  - 未分类
+  - ubuntu
+categories:
+  - Ubuntu
+  - Q&A
 id: '32'
 abbrlink: 2936125880
 date: 2012-10-13 07:31:00

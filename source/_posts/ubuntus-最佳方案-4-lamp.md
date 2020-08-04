@@ -1,7 +1,10 @@
 ---
 title: ubuntus 最佳方案 -4 LAMP
 tags:
-  - 未分类
+  - ubuntuserver
+categories:
+  - Ubuntu
+  - server
 id: '162'
 abbrlink: 2177598682
 date: 2012-04-27 11:01:00

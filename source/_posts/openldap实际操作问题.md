@@ -1,7 +1,10 @@
 ---
 title: openldap实际操作问题
 tags:
-  - 未分类
+  - ldap
+categories:
+  - Services
+  - ldap
 id: '347'
 abbrlink: 2816354876
 date: 2012-02-26 19:14:00

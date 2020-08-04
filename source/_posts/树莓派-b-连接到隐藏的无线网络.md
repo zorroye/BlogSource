@@ -1,7 +1,10 @@
 ---
 title: 树莓派 B+ 连接到隐藏的无线网络
 tags:
-  - 未分类
+  - 树莓派
+categories:
+  - Hardware
+  - 树莓派
 id: '176'
 abbrlink: 4154792531
 date: 2015-03-07 11:24:00

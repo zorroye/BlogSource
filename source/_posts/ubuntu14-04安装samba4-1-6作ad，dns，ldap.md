@@ -1,7 +1,10 @@
 ---
 title: UBUNTU14.04安装SAMBA4.1.6作AD，DNS，ldap
 tags:
-  - 未分类
+  - samba
+categories:
+  - Services
+  - samba
 id: '332'
 abbrlink: 2180576762
 date: 2015-09-10 00:00:00

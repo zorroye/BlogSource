@@ -1,7 +1,10 @@
 ---
 title: win2012域控分发exe文件
 tags:
-  - 未分类
+  - Q&A
+categories:
+  - Windows
+  - Q&A
 id: '291'
 abbrlink: 2464779298
 date: 2017-03-21 10:53:00

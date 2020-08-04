@@ -1,7 +1,10 @@
 ---
 title: 安装 VCSA 6
 tags:
-  - 未分类
+  - vmware
+categories：
+  - Virtualization
+  - vmware
 id: '297'
 abbrlink: 998840505
 date: 2016-01-31 02:32:00

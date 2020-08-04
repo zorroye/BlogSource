@@ -1,7 +1,10 @@
 ---
 title: LFS制作-1、准备工作
 tags:
-  - 未分类
+  - lfs
+categories:
+  - Linux
+  - lfs
 id: '225'
 abbrlink: 3703381300
 date: 2012-10-22 09:45:00

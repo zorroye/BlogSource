@@ -1,7 +1,10 @@
 ---
 title: ubuntu14.04开启vnc服务
 tags:
-  - 未分类
+  - ubuntuserver
+categories:
+  - Ubuntu
+  - server
 id: '277'
 abbrlink: 2161474433
 date: 2012-10-30 14:40:00

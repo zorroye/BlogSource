@@ -1,7 +1,10 @@
 ---
 title: ubuntus 最佳方案  3-apache.conf
 tags:
-  - 未分类
+  - ubuntuserver
+categories:
+  - Ubuntu
+  - server
 id: '161'
 abbrlink: 2254503815
 date: 2012-04-19 15:30:00

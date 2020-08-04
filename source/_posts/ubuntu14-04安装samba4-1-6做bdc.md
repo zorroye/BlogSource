@@ -1,7 +1,10 @@
 ---
 title: UBUNTU14.04安装SAMBA4.1.6做BDC
 tags:
-  - 未分类
+  - samba
+categories:
+  - Services
+  - samba
 id: '333'
 abbrlink: 1457996796
 date: 2015-09-11 14:01:00

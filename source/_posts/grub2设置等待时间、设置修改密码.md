@@ -1,7 +1,10 @@
 ---
 title: grub2设置等待时间、设置修改密码
 tags:
-  - 未分类
+  - 鸟哥的私房菜
+categories:
+  - Linux
+  - 鸟哥的私房菜
 id: '209'
 abbrlink: 4236291604
 date: 2011-06-21 18:32:00

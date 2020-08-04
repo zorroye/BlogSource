@@ -1,7 +1,10 @@
 ---
 title: 基础补充7：FC4安装Geforce MX 420驱动
 tags:
-  - 未分类
+  - 鸟哥的私房菜
+categories:
+  - Linux
+  - 鸟哥的私房菜
 id: '90'
 abbrlink: 1267475429
 date: 2014-12-02 14:59:00

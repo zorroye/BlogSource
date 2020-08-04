@@ -1,7 +1,10 @@
 ---
 title: '[转载]快速理解Docker - 容器级虚拟化解决方案'
 tags:
-  - 未分类
+  - docker
+categories:
+  - Virtualization
+  - docker
 id: '293'
 abbrlink: 1535462288
 date: 2014-09-15 16:06:00

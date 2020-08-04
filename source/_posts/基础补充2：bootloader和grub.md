@@ -1,7 +1,10 @@
 ---
 title: 基础补充2：bootloader和GRUB
 tags:
-  - 未分类
+  - 鸟哥的私房菜
+categories:
+  - Linux
+  - 鸟哥的私房菜
 id: '83'
 abbrlink: 1588026503
 date: 2013-04-09 10:49:00

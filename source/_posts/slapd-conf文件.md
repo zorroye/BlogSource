@@ -1,7 +1,10 @@
 ---
 title: slapd.conf文件
 tags:
-  - 未分类
+  - ldap
+categories:
+  - Services
+  - ldap
 id: '346'
 abbrlink: 3091646095
 date: 2012-02-25 08:40:00

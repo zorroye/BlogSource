@@ -1,7 +1,10 @@
 ---
 title: Ubuntu10.04 安装阿里旺旺
 tags:
-  - 未分类
+  - ubuntu
+categories:
+  - Ubuntu
+  - Q&A
 id: '39'
 abbrlink: 3112032052
 date: 2013-01-31 02:23:00

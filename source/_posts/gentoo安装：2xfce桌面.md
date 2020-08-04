@@ -1,7 +1,10 @@
 ---
 title: gentoo安装：2xfce桌面
 tags:
-  - 未分类
+  - gentoo
+categories:
+  - Linux
+  - gentoo
 id: '235'
 abbrlink: 3933523040
 date: 2012-11-30 16:40:00

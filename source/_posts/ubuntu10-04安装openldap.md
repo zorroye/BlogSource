@@ -1,7 +1,10 @@
 ---
 title: ubuntu10.04安装openldap
 tags:
-  - 未分类
+  - ldap
+categories:
+  - Services
+  - ldap
 id: '345'
 abbrlink: 2209076749
 date: 2012-02-24 20:40:00

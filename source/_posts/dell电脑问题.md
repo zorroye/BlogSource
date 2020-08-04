@@ -1,7 +1,10 @@
 ---
 title: DELL电脑问题
 tags:
-  - 未分类
+  - 服务器
+categories:
+  - Hardware
+  - 服务器
 id: '23'
 abbrlink: 3133175435
 date: 2011-02-12 11:07:00

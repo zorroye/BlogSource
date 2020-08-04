@@ -1,7 +1,10 @@
 ---
 title: winxp下安装字体
 tags:
-  - 未分类
+  - Q&A
+categories:
+  - Windows
+  - Q&A
 id: '105'
 abbrlink: 2200098253
 date: 2012-06-14 14:37:00

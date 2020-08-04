@@ -1,7 +1,10 @@
 ---
 title: ubuntu10.04 VPN客户端设置
 tags:
-  - 未分类
+  - ubuntu
+categories:
+  - Ubuntu
+  - Q&A
 id: '278'
 abbrlink: 3236162305
 date: 2013-06-14 12:24:00

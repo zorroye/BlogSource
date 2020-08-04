@@ -1,7 +1,10 @@
 ---
 title: '[转载]linux下使用logrotate自动备份mysql数据库'
 tags:
-  - 未分类
+  - ubuntu
+categories:
+  - Ubuntu
+  - Q&A
 id: '285'
 abbrlink: 2889213132
 date: 2012-11-23 10:12:00

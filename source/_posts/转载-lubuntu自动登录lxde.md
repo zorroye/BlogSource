@@ -1,7 +1,10 @@
 ---
 title: '[转载] lubuntu自动登录(lxde)'
 tags:
-  - 未分类
+  - ubuntu
+categories:
+  - Ubuntu
+  - Q&A
 id: '52'
 abbrlink: 872591790
 date: 2014-08-13 16:27:00

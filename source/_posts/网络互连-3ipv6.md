@@ -1,7 +1,10 @@
 ---
 title: 网络互连-3IPv6
 tags:
-  - 未分类
+  - 基础
+categories:
+  - Network
+  - 基础
 id: '259'
 abbrlink: 1476358204
 date: 2012-12-10 16:53:00

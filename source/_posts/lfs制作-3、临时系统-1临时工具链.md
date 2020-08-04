@@ -1,7 +1,10 @@
 ---
 title: LFS制作-3、临时系统-1临时工具链
 tags:
-  - 未分类
+  - lfs
+categories:
+  - Linux
+  - lfs
 id: '227'
 abbrlink: 3425791381
 date: 2012-10-22 09:49:00

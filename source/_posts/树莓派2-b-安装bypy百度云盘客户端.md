@@ -1,7 +1,10 @@
 ---
 title: 树莓派2 B+ 安装bypy百度云盘客户端
 tags:
-  - 未分类
+  - 树莓派
+categories:
+  - Hardware
+  - 树莓派
 id: '182'
 abbrlink: 797735913
 date: 2015-10-14 15:44:00

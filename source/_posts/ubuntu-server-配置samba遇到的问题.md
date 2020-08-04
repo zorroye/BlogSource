@@ -1,7 +1,10 @@
 ---
 title: ubuntu server 配置samba遇到的问题
 tags:
-  - 未分类
+  - samba
+categories:
+  - Services
+  - samba
 id: '330'
 abbrlink: 4091169391
 date: 2010-09-24 17:16:00

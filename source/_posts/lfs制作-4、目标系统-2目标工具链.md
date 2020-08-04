@@ -1,7 +1,10 @@
 ---
 title: LFS制作-4、目标系统-2目标工具链
 tags:
-  - 未分类
+  - lfs
+categories:
+  - Linux
+  - lfs
 id: '230'
 abbrlink: 991075949
 date: 2012-10-25 15:22:00

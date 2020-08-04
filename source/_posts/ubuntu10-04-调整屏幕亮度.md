@@ -1,7 +1,10 @@
 ---
 title: ubuntu10.04 调整屏幕亮度
 tags:
-  - 未分类
+  - ubuntu
+categories:
+  - Ubuntu
+  - Q&A
 id: '42'
 abbrlink: 3839016931
 date: 2013-03-12 19:37:00

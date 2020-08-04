@@ -1,7 +1,10 @@
 ---
 title: '[转载]dns和dc分离安装'
 tags:
-  - 未分类
+  - DNS
+categories:
+  - Network
+  - DNS
 id: '156'
 abbrlink: 293614938
 date: 2011-02-02 23:11:00

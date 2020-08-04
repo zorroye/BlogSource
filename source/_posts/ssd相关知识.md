@@ -1,7 +1,10 @@
 ---
 title: SSD相关知识
 tags:
-  - 未分类
+  - 存储
+categories:
+  - Hardware
+  - 存储
 id: '44'
 abbrlink: 3884163245
 date: 2013-08-01 17:30:00

@@ -1,7 +1,10 @@
 ---
 title: linux目录摘记
 tags:
-  - 未分类
+  - ubuntu
+categories:
+  - Ubuntu
+  - Q&A
 id: '40'
 abbrlink: 332203575
 date: 2013-02-27 16:37:00

@@ -1,7 +1,10 @@
 ---
 title: UBUNTU14.04安装BIND9_DLZ
 tags:
-  - 未分类
+  - ubuntuserver
+categories:
+  - Ubuntu
+  - server
 id: '334'
 abbrlink: 174363137
 date: 2015-09-13 19:16:00

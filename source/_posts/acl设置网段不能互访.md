@@ -1,7 +1,10 @@
 ---
 title: ACL设置网段不能互访
 tags:
-  - 未分类
+  - huawei
+categories:
+  - Network
+  - huawei
 id: '322'
 abbrlink: 760246906
 date: 2016-09-28 17:32:00

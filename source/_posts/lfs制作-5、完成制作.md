@@ -1,7 +1,10 @@
 ---
 title: LFS制作-5、完成制作
 tags:
-  - 未分类
+  - lfs
+categories:
+  - Linux
+  - lfs
 id: '232'
 abbrlink: 3062845074
 date: 2012-10-25 16:40:00

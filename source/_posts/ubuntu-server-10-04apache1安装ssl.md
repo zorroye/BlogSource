@@ -1,7 +1,10 @@
 ---
 title: 'ubuntu server 10.04:apache1:安装ssl'
 tags:
-  - 未分类
+  - ubuntuserver
+categories:
+  - Ubuntu
+  - server
 id: '152'
 abbrlink: 1720998562
 date: 2010-11-09 09:51:00

@@ -1,7 +1,10 @@
 ---
 title: 无线路由器做无线AP用
 tags:
-  - 未分类
+  - tplink
+categories:
+  - Hardware
+  - tplink
 id: '314'
 abbrlink: 1007263798
 date: 2012-08-10 09:09:00

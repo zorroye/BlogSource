@@ -1,7 +1,10 @@
 ---
 title: 第四章实验4.6：安装sdm和sdm demo
 tags:
-  - 未分类
+  - cisco
+categories:
+  - Network
+  - cisco
 id: '190'
 abbrlink: 443250720
 date: 2012-02-23 12:40:00

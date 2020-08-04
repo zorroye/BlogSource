@@ -1,7 +1,10 @@
 ---
 title: ubuntus 最佳方案 第一章
 tags:
-  - 未分类
+  - ubuntuserver
+categories:
+  - Ubuntu
+  - server
 id: '275'
 abbrlink: 563734183
 date: 2012-04-17 10:18:00

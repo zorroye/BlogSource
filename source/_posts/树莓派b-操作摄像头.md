@@ -1,7 +1,10 @@
 ---
 title: 树莓派B+ 操作摄像头
 tags:
-  - 未分类
+  - 树莓派
+categories:
+  - Hardware
+  - 树莓派
 id: '177'
 abbrlink: 2348587197
 date: 2015-03-16 10:47:00

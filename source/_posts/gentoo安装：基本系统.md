@@ -1,7 +1,10 @@
 ---
 title: gentoo安装：基本系统
 tags:
-  - 未分类
+  - gentoo
+categories:
+  - Linux
+  - gentoo
 id: '234'
 abbrlink: 3915535499
 date: 2012-11-28 12:20:00

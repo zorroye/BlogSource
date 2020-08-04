@@ -1,7 +1,10 @@
 ---
 title: LFS制作-概念、原理
 tags:
-  - 未分类
+  - lfs
+categories:
+  - Linux
+  - lfs
 id: '224'
 abbrlink: 319038377
 date: 2012-10-18 13:56:00

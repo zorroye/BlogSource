@@ -1,7 +1,10 @@
 ---
 title: 关于LFS
 tags:
-  - 未分类
+  - lfs
+categories：
+  - Linux
+  - lfs
 id: '221'
 abbrlink: 1795889865
 date: 2011-01-01 14:44:00

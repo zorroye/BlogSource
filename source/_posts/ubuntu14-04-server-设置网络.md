@@ -1,7 +1,10 @@
 ---
 title: Ubuntu14.04 Server 设置网络
 tags:
-  - 未分类
+  - ubuntu
+categories:
+  - Ubuntu
+  - Q&A
 id: '279'
 abbrlink: 157253944
 date: 2015-04-28 17:02:00

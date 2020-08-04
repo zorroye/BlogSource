@@ -1,7 +1,10 @@
 ---
 title: ACL设置单IP访问网段
 tags:
-  - 未分类
+  - huawei
+categories:
+  - Network
+  - huawei
 id: '321'
 abbrlink: 884278273
 date: 2016-09-28 17:31:00

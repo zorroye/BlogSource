@@ -1,7 +1,10 @@
 ---
 title: compiz用法
 tags:
-  - 未分类
+  - ubuntu
+categories:
+  - Ubuntu
+  - Q&A
 id: '26'
 abbrlink: 4056534827
 date: 2011-03-25 08:30:00

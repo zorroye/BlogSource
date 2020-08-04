@@ -1,7 +1,10 @@
 ---
 title: ubuntus 最佳方案  3-基于端口的多虚拟主机
 tags:
-  - 未分类
+  - ubuntuserver
+categories:
+  - Ubuntu
+  - server
 id: '160'
 abbrlink: 2458785665
 date: 2012-04-19 12:16:00

@@ -1,7 +1,10 @@
 ---
 title: LFS制作流程记录
 tags:
-  - 未分类
+  - lfs
+categories:
+  - Linux
+  - lfs
 id: '222'
 abbrlink: 769538398
 date: 2011-01-01 16:57:00

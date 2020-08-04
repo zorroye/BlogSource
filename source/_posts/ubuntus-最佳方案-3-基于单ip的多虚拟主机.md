@@ -1,7 +1,10 @@
 ---
 title: ubuntus 最佳方案 3-基于单IP的多虚拟主机
 tags:
-  - 未分类
+  - ubuntuserver
+categories:
+  - Ubuntu
+  - server
 id: '163'
 abbrlink: 3424829500
 date: 2012-04-27 15:45:00

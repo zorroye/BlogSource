@@ -1,7 +1,10 @@
 ---
 title: 鸟哥基础第十八章-grub
 tags:
-  - 未分类
+  - 鸟哥的私房菜
+categories:
+  - Linux
+  - 鸟哥的私房菜
 id: '73'
 abbrlink: 3244904808
 date: 2012-10-01 07:34:00

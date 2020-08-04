@@ -1,7 +1,10 @@
 ---
 title: ubuntu14.04 链接iscsi
 tags:
-  - 未分类
+  - ubuntu
+categories:
+  - Ubuntu
+  - Q&A
 id: '356'
 abbrlink: 2480527377
 date: 2016-02-06 17:56:00

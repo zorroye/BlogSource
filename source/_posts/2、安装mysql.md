@@ -1,7 +1,10 @@
 ---
 title: 2、安装MYSQL
 tags:
-  - 未分类
+  - mysql
+categories:
+  - Database
+  - mysql
 id: '366'
 abbrlink: 2087554151
 date: 2013-04-17 10:42:00

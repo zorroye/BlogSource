@@ -1,7 +1,10 @@
 ---
 title: '[转载]linux系统挂载光盘镜像ISO的方法'
 tags:
-  - 未分类
+  - mount
+categories:
+  - Linux
+  - 基础
 id: '213'
 abbrlink: 3868300778
 date: 2012-12-04 12:01:00

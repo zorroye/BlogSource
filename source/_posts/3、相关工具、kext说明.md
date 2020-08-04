@@ -1,7 +1,10 @@
 ---
 title: 3、相关工具、kext说明
 tags:
-  - 未分类
+  - hackintosh
+categories:
+  - Hackintosh
+  - 原理
 id: '239'
 abbrlink: 3969467101
 date: 2013-03-20 21:30:00

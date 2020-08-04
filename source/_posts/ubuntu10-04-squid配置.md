@@ -1,7 +1,10 @@
 ---
 title: ubuntu10.04 squid配置
 tags:
-  - 未分类
+  - ubuntuserver
+categories:
+  - Ubuntu
+  - server
 id: '157'
 abbrlink: 492604514
 date: 2011-03-11 11:11:00

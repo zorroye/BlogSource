@@ -1,7 +1,10 @@
 ---
 title: '[转载]ubuntu10.04 x64 安装PacketTracer5.3'
 tags:
-  - 未分类
+  - ubuntu
+categories:
+  - Ubuntu
+  - Q&A
 id: '367'
 abbrlink: 3345977369
 date: 2012-12-03 18:29:00

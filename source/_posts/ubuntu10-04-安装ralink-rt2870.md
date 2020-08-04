@@ -1,7 +1,10 @@
 ---
 title: ubuntu10.04 安装ralink rt2870
 tags:
-  - 未分类
+  - ubuntu
+categories:
+  - Ubuntu
+  - Q&A
 id: '203'
 abbrlink: 3720124949
 date: 2010-11-23 23:07:00
