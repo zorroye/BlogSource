@@ -128,3 +128,11 @@ symbols_count_time:
   awl: true
   wpm: 275
 
+# feed
+# Dependencies: https://github.com/zorroye/hexo-generator-feed
+feed:
+  type: atom
+  path: atom.xml
+  limit: 20
+  hub:
+  content:
