@@ -117,3 +117,14 @@ search:
   pield: post
   format: html
   limit: 10000 
+
+# word count
+## npm install hexo-word-counter --save
+symbols_count_time:
+  symbols: true
+  time: true
+  total_symbols: true
+  total_time: true
+  awl: true
+  wpm: 275
+
