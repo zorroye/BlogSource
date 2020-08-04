@@ -1,10 +1,10 @@
 ---
 title: 移动GPU 浮点运算比较
 tags:
-  - GPU
+  - 显卡
 categories:
   - Hardware
-  - GPU
+  - 显卡
 id: '51'
 abbrlink: 4111776144
 date: 2014-07-18 21:57:00

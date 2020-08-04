@@ -4,7 +4,7 @@ tags:
   - hackintosh
 categories:
   - Hackintosh
-  - 安装
+  - ex465
 id: '243'
 abbrlink: 1528618337
 date: 2013-03-20 22:40:00

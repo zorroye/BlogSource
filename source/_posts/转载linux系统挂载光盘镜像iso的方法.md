@@ -4,7 +4,7 @@ tags:
   - mount
 categories:
   - Linux
-  - 基础
+  - 鸟哥的私房菜
 id: '213'
 abbrlink: 3868300778
 date: 2012-12-04 12:01:00

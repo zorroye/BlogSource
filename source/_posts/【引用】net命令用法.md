@@ -4,7 +4,7 @@ tags:
   - net
 categories:
   - Network
-  - command
+  - 基础
 id: '284'
 abbrlink: 1736813283
 date: 2011-09-08 20:45:00

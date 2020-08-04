@@ -4,7 +4,7 @@ tags:
   - ldap
 categories:
   - Services
-  - Ldap
+  - ldap
 id: '348'
 abbrlink: 1312012375
 date: 2013-01-03 09:54:00

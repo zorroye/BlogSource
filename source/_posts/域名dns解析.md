@@ -3,7 +3,7 @@ title: 域名dns解析
 tags:
   - DNS
 categories:
-  - Network
+  - Services
   - DNS
 id: '312'
 abbrlink: 3195888254
