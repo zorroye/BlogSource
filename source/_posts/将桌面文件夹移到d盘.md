@@ -2,7 +2,7 @@
 title: 将桌面文件夹移到D盘
 tags:
   - regedit
-categories：
+categories:
   - Windows
   - Q&A
 id: '96'

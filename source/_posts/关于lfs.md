@@ -2,7 +2,7 @@
 title: 关于LFS
 tags:
   - lfs
-categories：
+categories:
   - Linux
   - lfs
 id: '221'

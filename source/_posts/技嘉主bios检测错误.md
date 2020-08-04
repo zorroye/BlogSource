@@ -2,7 +2,7 @@
 title: 技嘉主BIOS检测错误
 tags:
   - BIOS
-categories：
+categories:
   - Hardware
   - BIOS
 id: '98'

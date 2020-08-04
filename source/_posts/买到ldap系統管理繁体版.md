@@ -2,7 +2,7 @@
 title: 买到LDAP系統管理繁体版
 tags:
   - 点滴
-categories：
+categories:
   - Live
   - 点滴
 id: '344'

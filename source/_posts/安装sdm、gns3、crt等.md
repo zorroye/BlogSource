@@ -2,7 +2,7 @@
 title: 安装SDM、GNS3、CRT等
 tags:
   - GNS3
-categories：
+categories:
   - Network
   - 测试
 id: '191'

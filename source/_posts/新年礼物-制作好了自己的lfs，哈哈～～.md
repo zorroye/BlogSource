@@ -2,7 +2,7 @@
 title: 新年礼物——制作好了自己的LFS，哈哈～～
 tags:
   - 点滴
-categories：
+categories:
   - Live
   - 点滴
 id: '220'

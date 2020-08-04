@@ -2,7 +2,7 @@
 title: 更新server的源 sources.list
 tags:
   - ubuntu
-categories：
+categories:
   - Ubuntu
   - 基础
 id: '271'

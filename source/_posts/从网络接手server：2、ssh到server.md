@@ -2,7 +2,7 @@
 title: 从网络接手server：2、ssh到server
 tags:
   - ubuntu
-categories：
+categories:
   - Ubuntu
   - 基础
 id: '270'

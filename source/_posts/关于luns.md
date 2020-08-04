@@ -2,7 +2,7 @@
 title: 关于luns
 tags:
   - luns
-categories：
+categories:
   - Hardware
   - luns
 id: '355'

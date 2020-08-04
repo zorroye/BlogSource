@@ -2,7 +2,7 @@
 title: （转）Debian/Ubuntu常见安装软件错误解决方案
 tags:
   - ubuntu
-categories：
+categories:
   - Ubuntu
   - Q&A
 id: '205'

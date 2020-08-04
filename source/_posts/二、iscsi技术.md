@@ -2,7 +2,7 @@
 title: 二、ISCSI技术
 tags:
   - iscsi
-categories：
+categories:
   - Hardware
   - 存储
 id: '352'

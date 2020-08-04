@@ -2,7 +2,7 @@
 title: 命令行建kvm
 tags:
   - kvm
-categories：
+categories:
   - Virtualization
   - Kvm
 id: '301'

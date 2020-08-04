@@ -2,7 +2,7 @@
 title: 从网络接手server：1、网络启动server
 tags:
   - ubuntu
-categories：
+categories:
   - Ubuntu
   - 基础
 id: '268'

@@ -2,7 +2,7 @@
 title: 公司买了IBM设备+金蝶EAS
 tags:
   - 点滴
-categories：
+categories:
   - Live
   - 点滴
 id: '31'

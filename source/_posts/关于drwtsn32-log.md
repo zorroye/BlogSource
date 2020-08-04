@@ -2,7 +2,7 @@
 title: 关于drwtsn32.log
 tags:
   - IE
-categories：
+categories:
   - Windows
   - Q&A
 id: '107'

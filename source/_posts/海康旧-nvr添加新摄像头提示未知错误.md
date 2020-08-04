@@ -2,7 +2,7 @@
 title: 海康旧 NVR添加新摄像头提示未知错误
 tags:
   - 监控
-categories：
+categories:
   - Hardware
   - 监控
 id: '120'

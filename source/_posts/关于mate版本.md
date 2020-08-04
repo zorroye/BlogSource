@@ -2,7 +2,7 @@
 title: 关于mate版本
 tags:
   - ubuntu
-categories：
+categories:
   - Ubuntu
   - 基础
 id: '33'

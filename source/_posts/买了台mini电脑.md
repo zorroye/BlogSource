@@ -2,7 +2,7 @@
 title: 买了台mini电脑
 tags:
   - 点滴
-categories：
+categories:
   - Live
   - 点滴
 id: '41'

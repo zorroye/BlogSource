@@ -2,7 +2,7 @@
 title: 安装 minicom
 tags:
   - ubuntu
-categories：
+categories:
   - Ubuntu
   - 基础
 id: '186'

@@ -2,7 +2,7 @@
 title: diskgenius处理坏道
 tags:
   - 存储
-categories：
+categories:
   - Hardware
   - 存储
 id: '357'
