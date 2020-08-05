@@ -6,7 +6,7 @@ environment:
 install:
     - ps: Install-Product node $env:nodejs_version
     - npm install
-    - npm audit fix
+ #   - npm audit fix
     - node --version
     - npm --version
     - npm install
@@ -19,7 +19,8 @@ install:
     - npm install hexo-generator-baidu-sitemap --save
     - npm install hexo-word-counter --save
 #   - npm install hexo-generator-feed --save
-
+    - npm install hexo-helper-live2d --save
+    - npm install live2d-widget-model-miku --save
 build_script:
     - hexo generate
 artifacts:
