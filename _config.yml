@@ -129,10 +129,22 @@ symbols_count_time:
   wpm: 275
 
 # feed
-# Dependencies: https://github.com/zorroye/hexo-generator-feed
+## Dependencies: https://github.com/zorroye/hexo-generator-feed
 feed:
   type: atom
   path: atom.xml
   limit: 20
   hub:
   content:
+
+# sitemap
+## 谷歌、百度站点地图生成
+Plugins:
+  - hexo-generator-baidu-sitemap
+  - hexo-generator-sitemap
+
+baidusitemap:
+    path: baidusitemap.xml
+
+sitemap:
+    path: sitemap.xml
