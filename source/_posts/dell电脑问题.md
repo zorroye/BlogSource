@@ -1,10 +1,10 @@
 ---
 title: DELL电脑问题
 tags:
-  - 服务器
+  - dell
 categories:
-  - Hardware
-  - 服务器
+  - Windows
+  - Q&A
 id: '23'
 abbrlink: 3133175435
 date: 2011-02-12 11:07:00

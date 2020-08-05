@@ -1,10 +1,10 @@
 ---
 title: 'root nas :  buffalo LS-WVL'
 tags:
-  - 巴法络
+  - buffalo
 categories:
   - Hardware
-  - 巴法络
+  - buffalo
 id: '169'
 abbrlink: 3073781033
 date: 2014-02-04 20:19:00

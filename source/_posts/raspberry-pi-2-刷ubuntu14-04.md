@@ -4,7 +4,7 @@ tags:
   - 树莓派
 categories:
   - Hardware
-  - 树莓派
+  - raspberrypi
 id: '178'
 abbrlink: 565288185
 date: 2015-05-04 13:05:00

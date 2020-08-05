@@ -3,8 +3,8 @@ title: 【转载】笔记本变身无线AP共享攻略
 tags:
   - 无线AP
 categories:
-  - Hardware
-  - 笔记本
+  - Windows
+  - Q&A
 id: '100'
 abbrlink: 378322779
 date: 2011-02-12 15:30:00

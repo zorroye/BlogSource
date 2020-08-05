@@ -130,6 +130,8 @@ symbols_count_time:
 
 # feed
 ## Dependencies: https://github.com/zorroye/hexo-generator-feed
+plugins:
+  hexo-generator-feed
 feed:
   type: atom
   path: atom.xml

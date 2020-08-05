@@ -1,10 +1,10 @@
 ---
 title: buffalo 安装xware
 tags:
-  - 巴法络
+  - buffalo
 categories:
   - Hardware
-  - 巴法络
+  - buffalo
 id: '172'
 abbrlink: 796663220
 date: 2015-01-21 21:19:00

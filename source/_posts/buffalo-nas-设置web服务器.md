@@ -1,10 +1,10 @@
 ---
 title: buffalo nas 设置web服务器
 tags:
-  - 巴法络
+  - buffalo
 categories:
   - Hardware
-  - 巴法络
+  - buffalo
 id: '170'
 abbrlink: 298306700
 date: 2014-02-05 16:31:00

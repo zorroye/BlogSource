@@ -1,10 +1,10 @@
 ---
 title: 物联网、私有云基础：DDNS，端口转发，UPNP
 tags:
-  - 基础
+  - network
 categories:
   - Network
-  - 基础
+  - base
 id: '180'
 abbrlink: 3799354604
 date: 2015-06-02 13:44:00

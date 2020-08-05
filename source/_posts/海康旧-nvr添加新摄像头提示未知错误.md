@@ -1,10 +1,10 @@
 ---
 title: 海康旧 NVR添加新摄像头提示未知错误
 tags:
-  - 监控
+  - 海康
 categories:
   - Hardware
-  - 监控
+  - monitor
 id: '120'
 abbrlink: 2650134662
 date: 2016-08-25 11:52:00
