@@ -1,10 +1,10 @@
 ---
 title: SSD芯片
 tags:
-  - 存储
+  - ssd
 categories:
   - Hardware
-  - 存储
+  - storage
 id: '305'
 abbrlink: 3879864185
 date: 2011-01-04 08:06:00

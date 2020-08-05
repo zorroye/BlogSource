@@ -1,10 +1,10 @@
 ---
 title: diskgenius处理坏道
 tags:
-  - 存储
+  - 坏道
 categories:
-  - Hardware
-  - 存储
+  - Windows
+  - Q&A
 id: '357'
 abbrlink: 3632146375
 date: 2016-04-14 21:35:00

@@ -4,7 +4,7 @@ tags:
   - iscsi
 categories:
   - Hardware
-  - 存储
+  - storage
 id: '352'
 abbrlink: 4220424958
 date: 2016-02-05 18:12:00

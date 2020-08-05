@@ -1,10 +1,10 @@
 ---
 title: 移动GPU 浮点运算比较
 tags:
-  - 显卡
+  - GPU
 categories:
   - Hardware
-  - 显卡
+  - mphone
 id: '51'
 abbrlink: 4111776144
 date: 2014-07-18 21:57:00

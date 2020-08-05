@@ -18,7 +18,7 @@ install:
     - npm install hexo-generator-sitemap --save
     - npm install hexo-generator-baidu-sitemap --save
     - npm install hexo-word-counter --save
-    - npm install hexo-generator-feed --save
+#   - npm install hexo-generator-feed --save
 
 build_script:
     - hexo generate

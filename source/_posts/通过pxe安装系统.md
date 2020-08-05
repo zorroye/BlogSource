@@ -3,8 +3,8 @@ title: 通过PXE安装系统
 tags:
   - 无盘
 categories:
-  - Hardware
-  - 无盘
+  - Windows
+  - Q&A
 id: '165'
 abbrlink: 4265064830
 date: 2014-02-18 15:28:00
