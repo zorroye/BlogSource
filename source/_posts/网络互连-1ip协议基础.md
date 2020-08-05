@@ -1,10 +1,10 @@
 ---
 title: 网络互连-1IP协议基础
 tags:
-  - 基础
+  - base
 categories:
   - Network
-  - 基础
+  - base
 id: '257'
 abbrlink: 3239604257
 date: 2012-12-10 15:10:00

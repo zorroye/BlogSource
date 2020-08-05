@@ -1,10 +1,10 @@
 ---
 title: USB量产操作
 tags:
-  - U盘
+  - Udisk
 categories:
   - Hardware
-  - U盘
+  - Udisk
 id: '168'
 abbrlink: 2647626534
 date: 2011-08-30 17:17:00

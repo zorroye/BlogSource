@@ -1,10 +1,10 @@
 ---
 title: 运输层-TCP
 tags:
-  - 基础
+  - base
 categories:
   - Network
-  - 基础
+  - base
 id: '261'
 abbrlink: 3823480528
 date: 2012-12-13 20:52:00

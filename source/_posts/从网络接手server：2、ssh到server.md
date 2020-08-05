@@ -1,10 +1,10 @@
 ---
 title: 从网络接手server：2、ssh到server
 tags:
-  - ubuntu
+  - ubuntuserver
 categories:
   - Ubuntu
-  - 基础
+  - server
 id: '270'
 abbrlink: 3778847342
 date: 2010-09-22 14:35:00

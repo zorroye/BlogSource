@@ -1,10 +1,10 @@
 ---
 title: 安装SDM、GNS3、CRT等
 tags:
-  - GNS3
+  - base
 categories:
   - Network
-  - 测试
+  - base
 id: '191'
 abbrlink: 3426435949
 date: 2012-03-02 11:08:00

@@ -4,7 +4,7 @@ tags:
   - ubuntu
 categories:
   - Ubuntu
-  - 基础
+  - Q&A
 id: '186'
 abbrlink: 2051443138
 date: 2011-02-25 13:56:00

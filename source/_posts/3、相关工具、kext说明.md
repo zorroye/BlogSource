@@ -4,7 +4,7 @@ tags:
   - hackintosh
 categories:
   - Hackintosh
-  - 原理
+  - base
 id: '239'
 abbrlink: 3969467101
 date: 2013-03-20 21:30:00

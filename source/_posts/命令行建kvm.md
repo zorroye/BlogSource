@@ -4,7 +4,7 @@ tags:
   - kvm
 categories:
   - Virtualization
-  - Kvm
+  - kvm
 id: '301'
 abbrlink: 312231816
 date: 2016-04-14 22:39:00

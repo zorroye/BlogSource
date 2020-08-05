@@ -1,10 +1,10 @@
 ---
 title: 【引用】net命令用法
 tags:
-  - net
+  - base
 categories:
   - Network
-  - 基础
+  - base
 id: '284'
 abbrlink: 1736813283
 date: 2011-09-08 20:45:00

@@ -1,10 +1,10 @@
 ---
 title: 公司买了IBM设备+金蝶EAS
 tags:
-  - 点滴
+  - kingdee
 categories:
-  - Live
-  - 点滴
+  - Services
+  - kingdee
 id: '31'
 abbrlink: 2583200111
 date: 2012-09-04 11:27:00

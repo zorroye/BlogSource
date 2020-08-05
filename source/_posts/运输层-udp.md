@@ -1,10 +1,10 @@
 ---
 title: 运输层-UDP
 tags:
-  - 基础
+  - base
 categories:
   - Network
-  - 基础
+  - base
 id: '260'
 abbrlink: 2909164064
 date: 2012-12-13 19:12:00

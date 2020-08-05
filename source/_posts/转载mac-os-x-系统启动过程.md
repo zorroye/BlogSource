@@ -1,10 +1,10 @@
 ---
 title: '[转载]Mac OS X 系统启动过程'
 tags:
-  - 原理
+  - hackintosh
 categories:
   - Hackintosh
-  - 原理
+  - base
 id: '236'
 abbrlink: 4063874116
 date: 2013-03-13 08:21:00

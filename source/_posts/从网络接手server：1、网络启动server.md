@@ -1,10 +1,10 @@
 ---
 title: 从网络接手server：1、网络启动server
 tags:
-  - ubuntu
+  - ubuntuserver
 categories:
   - Ubuntu
-  - 基础
+  - server
 id: '268'
 abbrlink: 461935396
 date: 2010-09-17 10:42:00

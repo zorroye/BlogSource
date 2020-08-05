@@ -1,10 +1,10 @@
 ---
 title: 技嘉主BIOS检测错误
 tags:
-  - BIOS
+  - bios
 categories:
   - Hardware
-  - BIOS
+  - bios
 id: '98'
 abbrlink: 3674520218
 date: 2011-01-26 14:15:00
