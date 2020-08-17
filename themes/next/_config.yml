@@ -174,7 +174,9 @@ site_state: true
 # Key is the link label showing to end users.
 # Value before `||` delimiter is the target permalink, value after `||` delimiter is the name of Font Awesome icon.
 social:
-  GitHub: https://github.com/zorroye || fab fa-github
+  #GitHub: https://github.com/zorroye || fab fa-github
+  #Wechat: wechat:mrye306?call|chat || fab fa-weixin
+  QQ: qq:439753096?call|chat || fab fa-qq
   E-Mail: mailto:439753096@qq.com || fa fa-envelope
   #Weibo: https://weibo.com/yourname || fab fa-weibo
   #Google: https://plus.google.com/yourname || fab fa-google
@@ -183,7 +185,7 @@ social:
   #StackOverflow: https://stackoverflow.com/yourname || fab fa-stack-overflow
   #YouTube: https://youtube.com/yourname || fab fa-youtube
   #Instagram: https://instagram.com/yourname || fab fa-instagram
-  #Skype: skype:yourname?call|chat || fab fa-skype
+  #Skype: skype:skypename?call|chat || fab fa-skype
 
 social_icons:
   enable: true
@@ -198,7 +200,9 @@ links_settings:
   layout: block
 
 links:
-  #Title: http://yoursite.com
+  黑果小兵: https://blog.daliansky.net/
+  Sukka's Blog: https://blog.skk.moe/
+  Xjn's Blog: https://blog.xjn819.com/
 
 # Table of Contents in the Sidebar
 # Front-matter variable (unsupport wrap expand_all).
