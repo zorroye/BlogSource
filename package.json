@@ -35,7 +35,7 @@
     "hexo-renderer-marked": "^3.0.0",
     "hexo-renderer-stylus": "^1.1.0",
     "hexo-server": "^1.0.0",
-    "hexo-theme-next": "^8.0.0-rc.4",
+    "hexo-theme-next": "^8.0.0-rc.5",
     "hexo-word-counter": "0.0.2",
     "live2d-widget-model-miku": "^1.0.5"
   }
